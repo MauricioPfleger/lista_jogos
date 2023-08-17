@@ -1,29 +1,37 @@
 Numero;Bilhete;Data;Jogo;Resultado;Premio
-1;158452102;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,004.48
-1;158452102;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$1,004.48
-1;158452102;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,004.48
-1;158452102;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$1,004.48
-2;158447277;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,065.86
-2;158447277;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$1,065.86
-2;158447277;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,065.86
-2;158447277;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,065.86
-3;158447384;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,089.11
-3;158447384;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$1,089.11
-3;158447384;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$1,089.11
-3;158447384;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,089.11
-4;158447497;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,114.17
-4;158447497;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,114.17
-4;158447497;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,114.17
-4;158447497;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,114.17
+1;158457946;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,072.91
+1;158457946;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,072.91
+1;158457946;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$1,072.91
+1;158457946;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$1,072.91
+2;158452102;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,004.48
+2;158452102;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$1,004.48
+2;158452102;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,004.48
+2;158452102;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$1,004.48
+3;158448240;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,138.47
+3;158448240;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,138.47
+3;158448240;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$1,138.47
+3;158448240;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,138.47
+4;158448116;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,471.68
+4;158448116;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,471.68
+4;158448116;19-08-2023 18:30;Fluminense - América MG;Empate;R$1,471.68
+4;158448116;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,471.68
 5;158447994;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,050.01
 5;158447994;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,050.01
 5;158447994;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,050.01
 5;158447994;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$1,050.01
-6;158457946;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,072.91
-6;158457946;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,072.91
-6;158457946;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$1,072.91
-6;158457946;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$1,072.91
-7;158448240;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,138.47
-7;158448240;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,138.47
-7;158448240;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$1,138.47
-7;158448240;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,138.47
+6;158447497;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,114.17
+6;158447497;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,114.17
+6;158447497;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,114.17
+6;158447497;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,114.17
+7;158447384;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,089.11
+7;158447384;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$1,089.11
+7;158447384;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$1,089.11
+7;158447384;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,089.11
+8;158447277;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,065.86
+8;158447277;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$1,065.86
+8;158447277;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,065.86
+8;158447277;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,065.86
+9;158447206;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$1,004.48
+9;158447206;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,004.48
+9;158447206;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$1,004.48
+9;158447206;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$1,004.48
