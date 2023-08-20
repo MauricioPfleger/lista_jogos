@@ -1,121 +1,33 @@
 Numero;Bilhete;Data;Jogo;Resultado;Premio
-1;158452102;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 2.235,98
-1;158452102;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 2.235,98
-1;158452102;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$ 2.235,98
-1;158452102;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$ 2.235,98
-2;158447277;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 1.312,71
-2;158447277;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 1.312,71
-2;158447277;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$ 1.312,71
-2;158447277;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 1.312,71
-3;158447384;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 1.341,34
-3;158447384;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 1.341,34
-3;158447384;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$ 1.341,34
-3;158447384;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 1.341,34
-4;158447497;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 1.370,75
-4;158447497;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 1.370,75
-4;158447497;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$ 1.370,75
-4;158447497;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 1.370,75
-5;158447994;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 1.288,74
-5;158447994;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 1.288,74
-5;158447994;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$ 1.288,74
-5;158447994;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$ 1.288,74
-6;158457946;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 1.316,85
-6;158457946;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 1.316,85
-6;158457946;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$ 1.316,85
-6;158457946;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$1,316.85
-7;158448240;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 1.403,71
-7;158448240;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 1.403,71
-7;158448240;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$ 1.403,71
-7;158448240;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 1.403,71
-8;158448116;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$1,471.68
-8;158448116;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$1,471.68
-8;158448116;19-08-2023 18:30;Fluminense - América MG;Empate;R$1,471.68
-8;158448116;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$1,471.68
-9;158954054;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 922,63
-9;158954054;19-08-2023 16:00;Internacional - Fortaleza;Fortaleza;R$ 922,63
-9;158954054;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 922,63
-9;158954054;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 922,63
-9;158954054;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 922,63
-10;158953947;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 1.286,78
-10;158953947;19-08-2023 16:00;Internacional - Fortaleza;Fortaleza;R$ 1.286,78
-10;158953947;19-08-2023 18:30;Fluminense - América MG;América MG;R$ 1.286,78
-10;158953947;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$ 1.286,78
-10;158953947;19-08-2023 21:00;Cruzeiro - Corinthians;Cruzeiro;R$ 1.286,78
-11;158953802;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 821,00
-11;158953802;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 821,00
-11;158953802;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 821,00
-11;158953802;19-08-2023 18:30;Cuiabá - Palmeiras;Cuiabá;R$ 821,00
-11;158953802;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 821,00
-12;158953682;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 1.122,18
-12;158953682;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 1.122,18
-12;158953682;19-08-2023 18:30;Fluminense - América MG;América MG;R$ 1.122,18
-12;158953682;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$ 1.122,18
-12;158953682;19-08-2023 21:00;Cruzeiro - Corinthians;Cruzeiro;R$ 1.122,18
-13;158953473;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 945,06
-13;158953473;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 945,06
-13;158953473;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 945,06
-13;158953473;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$ 945,06
-13;158953473;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 945,06
-14;158953211;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 813,59
-14;158953211;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 813,59
-14;158953211;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 813,59
-14;158953211;19-08-2023 18:30;Cuiabá - Palmeiras;Empate;R$ 813,59
-14;158953211;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 813,59
-15;158953091;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 802,68
-15;158953091;19-08-2023 16:00;Internacional - Fortaleza;Fortaleza;R$ 802,68
-15;158953091;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 802,68
-15;158953091;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 802,68
-15;158953091;19-08-2023 21:00;Cruzeiro - Corinthians;Cruzeiro;R$ 802,68
-16;158952974;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 1.151,71
-16;158952974;19-08-2023 16:00;Internacional - Fortaleza;Fortaleza;R$ 1.151,71
-16;158952974;19-08-2023 18:30;Fluminense - América MG;Empate;R$ 1.151,71
-16;158952974;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 1.151,71
-16;158952974;19-08-2023 21:00;Cruzeiro - Corinthians;Cruzeiro;R$ 1.151,71
-17;158952783;19-08-2023 16:00;São Paulo - Botafogo FR;Botafogo FR;R$ 772,23
-17;158952783;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 772,23
-17;158952783;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 772,23
-17;158952783;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 772,23
-17;158952783;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 772,23
-18;158952662;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 719,77
-18;158952662;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 719,77
-18;158952662;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 719,77
-18;158952662;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 719,77
-18;158952662;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 719,77
-19;158952516;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 854,67
-19;158952516;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 854,67
-19;158952516;19-08-2023 18:30;Fluminense - América MG;América MG;R$ 854,67
-19;158952516;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 854,67
-19;158952516;19-08-2023 21:00;Cruzeiro - Corinthians;Cruzeiro;R$ 854,67
-20;158952425;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 881,35
-20;158952425;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 881,35
-20;158952425;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 881,35
-20;158952425;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 881,35
-20;158952425;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 881,35
-21;158952224;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 795,33
-21;158952224;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 795,33
-21;158952224;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 795,33
-21;158952224;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 795,33
-21;158952224;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$ 795,33
-22;158951356;19-08-2023 16:00;São Paulo - Botafogo FR;São Paulo;R$ 1.190,32
-22;158951356;19-08-2023 16:00;Internacional - Fortaleza;Internacional;R$ 1.190,32
-22;158951356;19-08-2023 18:30;Fluminense - América MG;Empate;R$ 1.190,32
-22;158951356;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 1.190,32
-22;158951356;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$ 1.190,32
-23;158448241;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 121,71
-23;158448241;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 121,71
-23;158448241;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 121,71
-24;158951351;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 759,48
-24;158951351;19-08-2023 16:00;Internacional - Fortaleza;Fortaleza;R$ 759,48
-24;158951351;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 759,48
-24;158951351;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 759,48
-24;158951351;19-08-2023 21:00;Cruzeiro - Corinthians;Corinthians;R$ 759,48
-25;158951352;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 468,52
-25;158951352;19-08-2023 16:00;Internacional - Fortaleza;Fortaleza;R$ 468,52
-25;158951352;19-08-2023 18:30;Fluminense - América MG;Fluminense;R$ 468,52
-25;158951352;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 468,52
-25;158951352;19-08-2023 21:00;Cruzeiro - Corinthians;Empate;R$ 468,52
-26;158951353;19-08-2023 16:00;São Paulo - Botafogo FR;Empate;R$ 1.420,41
-26;158951353;19-08-2023 16:00;Internacional - Fortaleza;Empate;R$ 1.420,41
-26;158951353;19-08-2023 18:30;Fluminense - América MG;Empate;R$ 1.420,41
-26;158951353;19-08-2023 18:30;Cuiabá - Palmeiras;Palmeiras;R$ 1.420,41
-26;158951353;19-08-2023 21:00;Cruzeiro - Corinthians;Cruzeiro;R$ 1.420,41
+1;159429243;20-08-2023 11:00;Vasco da Gama - Atlético MG;Empate;R$ 570,66
+1;159429243;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 570,66
+1;159429243;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 570,66
+1;159429243;20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 570,66
+2;159429096;20-08-2023 11:00;Vasco da Gama - Atlético MG;Empate;R$ 476,30
+2;159429096;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 476,30
+2;159429096;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 476,30
+2;159429096;20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 476,30
+3;159428855;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 472,51
+3;159428855;20-08-2023 16:00;Santos - Grêmio;Empate;R$ 472,51
+3;159428855;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 472,51
+3;159428855;20-08-2023 16:00;Bahia - Bragantino;Empate;R$ 472,51
+4;159427054;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 543,24
+4;159427054;20-08-2023 16:00;Santos - Grêmio;Empate;R$ 543,24
+4;159427054;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 543,24
+4;159427054;20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 543,24
+5;159426957;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 479,11
+5;159426957;20-08-2023 16:00;Santos - Grêmio;Empate;R$ 479,11
+5;159426957;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 479,11
+5;159426957;20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 479,11
+6;159426684;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 509,00
+6;159426684;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 509,00
+6;159426684;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 509,00
+6;159426684;20-08-2023 16:00;Bahia - Bragantino;Empate;R$ 509,00
+7;159426519;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 483,86
+7;159426519;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 483,86
+7;159426519;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 483,86
+7;159426519;20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 483,86
+8;159426419;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 548,62
+8;159426419;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 548,62
+8;159426419;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 548,62
+8;159426419;20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 548,62
