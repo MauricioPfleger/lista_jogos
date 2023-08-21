@@ -1,33 +1,33 @@
-Numero;Bilhete;Data;Jogo;Resultado;Premio
-1;159429243;20-08-2023 11:00;Vasco da Gama - Atlético MG;Empate;R$ 570,66
-1;159429243;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 570,66
-1;159429243;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 570,66
-1;159429243;20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 570,66
-2;159429096;20-08-2023 11:00;Vasco da Gama - Atlético MG;Empate;R$ 476,30
-2;159429096;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 476,30
-2;159429096;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 476,30
-2;159429096;20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 476,30
-3;159428855;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 472,51
-3;159428855;20-08-2023 16:00;Santos - Grêmio;Empate;R$ 472,51
-3;159428855;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 472,51
-3;159428855;20-08-2023 16:00;Bahia - Bragantino;Empate;R$ 472,51
-4;159427054;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 543,24
-4;159427054;20-08-2023 16:00;Santos - Grêmio;Empate;R$ 543,24
-4;159427054;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 543,24
-4;159427054;20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 543,24
-5;159426957;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 479,11
-5;159426957;20-08-2023 16:00;Santos - Grêmio;Empate;R$ 479,11
-5;159426957;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 479,11
-5;159426957;20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 479,11
-6;159426684;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 509,00
-6;159426684;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 509,00
-6;159426684;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 509,00
-6;159426684;20-08-2023 16:00;Bahia - Bragantino;Empate;R$ 509,00
-7;159426519;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 483,86
-7;159426519;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 483,86
-7;159426519;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 483,86
-7;159426519;20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 483,86
-8;159426419;20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 548,62
-8;159426419;20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 548,62
-8;159426419;20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 548,62
-8;159426419;20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 548,62
+Data;Jogo;Resultado;Premio
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Empate;R$ 570,66
+20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 570,66
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 570,66
+20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 570,66
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Empate;R$ 476,30
+20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 476,30
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 476,30
+20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 476,30
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 472,51
+20-08-2023 16:00;Santos - Grêmio;Empate;R$ 472,51
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 472,51
+20-08-2023 16:00;Bahia - Bragantino;Empate;R$ 472,51
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 543,24
+20-08-2023 16:00;Santos - Grêmio;Empate;R$ 543,24
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 543,24
+20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 543,24
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 479,11
+20-08-2023 16:00;Santos - Grêmio;Empate;R$ 479,11
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 479,11
+20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 479,11
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 509,00
+20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 509,00
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 509,00
+20-08-2023 16:00;Bahia - Bragantino;Empate;R$ 509,00
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 483,86
+20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 483,86
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 483,86
+20-08-2023 16:00;Bahia - Bragantino;Bahia;R$ 483,86
+20-08-2023 11:00;Vasco da Gama - Atlético MG;Atlético MG;R$ 548,62
+20-08-2023 16:00;Santos - Grêmio;Grêmio;R$ 548,62
+20-08-2023 16:00;Coritiba - Flamengo;Flamengo;R$ 548,62
+20-08-2023 16:00;Bahia - Bragantino;Bragantino;R$ 548,62
