@@ -1,10 +1,11 @@
-time_casa;time_visitante;data;odd_casa;odd_empate;odd_visitante
-Flamengo;Internacional;26-08-2023 18:30;1.53;4.1;6.6
-Corinthians;Goiás;26-08-2023 21:00;1.78;3.2;5.8
-Bragantino;Cuiabá;27-08-2023 11:00;1.7;3.7;5.1
-Botafogo-RJ;Bahia;27-08-2023 16:00;1.65;3.8;5.4
-Grêmio;Cruzeiro;27-08-2023 16:00;1.91;3.5;4.1
-América-MG;São Paulo;27-08-2023 16:00;2.82;3.35;2.52
-Atlético-MG;Santos;27-08-2023 18:30;1.57;3.9;6.5
-Fortaleza;Coritiba;27-08-2023 18:30;1.6;3.8;6.3
-Palmeiras;Vasco da Gama;27-08-2023 18:30;1.53;4.05;6.8
+time_casa;time_visitante;data
+Flamengo;Athletico-PR;13-09-2023 21:30
+Internacional;São Paulo;13-09-2023 21:30
+Fortaleza;Corinthians;14-09-2023 19:00
+Santos;Cruzeiro;14-09-2023 19:00
+Coritiba;Bahia;14-09-2023 20:00
+Bragantino;Grêmio;14-09-2023 21:30
+Cuiabá;América-MG;15-09-2023 20:00
+Palmeiras;Goiás;15-09-2023 21:30
+Vasco da Gama;Fluminense;16-09-2023 16:00
+Atlético-MG;Botafogo-RJ;16-09-2023 21:00
