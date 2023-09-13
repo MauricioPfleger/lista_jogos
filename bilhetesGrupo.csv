@@ -1,1 +1,57 @@
 Numero;Data;Jogo;Resultado;Premio
+1;13-09-2023 21:30;Internacional - São Paulo;Empate;R$ 473,89
+1;14-09-2023 21:30;Bragantino - Grêmio;Empate;R$ 473,89
+1;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 473,89
+1;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 473,89
+2;13-09-2023 21:30;Internacional - São Paulo;Empate;R$ 498,08
+2;14-09-2023 21:30;Bragantino - Grêmio;Empate;R$ 498,08
+2;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 498,08
+2;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 498,08
+3;13-09-2023 21:30;Internacional - São Paulo;Empate;R$ 427,81
+3;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 427,81
+3;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 427,81
+3;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 427,81
+4;13-09-2023 21:30;Internacional - São Paulo;Empate;R$ 427,81
+4;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 427,81
+4;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 427,81
+4;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 427,81
+5;13-09-2023 21:30;Internacional - São Paulo;Empate;R$ 471,32
+5;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 471,32
+5;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 471,32
+5;16-09-2023 16:00;Vasco da Gama - Fluminense;Empate;R$ 471,32
+6;13-09-2023 21:30;Internacional - São Paulo;Empate;R$ 743,07
+6;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 743,07
+6;16-09-2023 16:00;Vasco da Gama - Fluminense;Empate;R$ 743,07
+6;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 743,07
+7;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 406,69
+7;14-09-2023 21:30;Bragantino - Grêmio;Empate;R$ 406,69
+7;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 406,69
+7;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 406,69
+8;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 641,18
+8;14-09-2023 21:30;Bragantino - Grêmio;Empate;R$ 641,18
+8;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 641,18
+8;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 641,18
+9;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 448,05
+9;14-09-2023 21:30;Bragantino - Grêmio;Empate;R$ 448,05
+9;16-09-2023 16:00;Vasco da Gama - Fluminense;Empate;R$ 448,05
+9;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 448,05
+10;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 706,39
+10;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 706,39
+10;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 706,39
+10;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 706,39
+11;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 485,39
+11;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 485,39
+11;16-09-2023 16:00;Vasco da Gama - Fluminense;Empate;R$ 485,39
+11;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 485,39
+12;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 706,39
+12;16-09-2023 16:00;Vasco da Gama - Fluminense;Empate;R$ 706,39
+12;14-09-2023 21:30;Bragantino - Grêmio;Empate;R$ 706,39
+12;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 706,39
+13;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 485,39
+13;16-09-2023 16:00;Vasco da Gama - Fluminense;Empate;R$ 485,39
+13;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 485,39
+13;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 485,39
+14;13-09-2023 21:30;Internacional - São Paulo;São Paulo;R$ 765,25
+14;16-09-2023 16:00;Vasco da Gama - Fluminense;Empate;R$ 765,25
+14;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 765,25
+14;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 765,25
