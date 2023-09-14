@@ -1,1 +1,52 @@
 Numero;Data;Jogo;Resultado;Premio
+1;14-09-2023 19:00;Fortaleza - Corinthians;Corinthians;R$ 1.046,52
+1;14-09-2023 19:00;Santos - Cruzeiro;Santos;R$ 1.046,52
+1;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.046,52
+1;14-09-2023 21:30;Bragantino - Grêmio;Empate;R$ 1.046,52
+2;14-09-2023 19:00;Fortaleza - Corinthians;Corinthians;R$ 1.091,12
+2;14-09-2023 19:00;Santos - Cruzeiro;Cruzeiro;R$ 1.091,12
+2;14-09-2023 20:00;Coritiba - Bahia;Empate;R$ 1.091,12
+2;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 1.091,12
+3;14-09-2023 19:00;Fortaleza - Corinthians;Corinthians;R$ 1.007,19
+3;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 1.007,19
+3;14-09-2023 19:00;Santos - Cruzeiro;Empate;R$ 1.007,19
+3;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.007,19
+4;14-09-2023 19:00;Fortaleza - Corinthians;Corinthians;R$ 1.104,66
+4;14-09-2023 21:30;Bragantino - Grêmio;Grêmio;R$ 1.104,66
+4;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.104,66
+4;14-09-2023 19:00;Santos - Cruzeiro;Santos;R$ 1.104,66
+5;14-09-2023 19:00;Fortaleza - Corinthians;Corinthians;R$ 1.041,17
+5;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.041,17
+5;14-09-2023 19:00;Santos - Cruzeiro;Santos;R$ 1.041,17
+5;14-09-2023 21:30;Bragantino - Grêmio;Bragantino;R$ 1.041,17
+5;16-09-2023 16:00;Vasco da Gama - Fluminense;Fluminense;R$ 1.041,17
+6;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.230,97
+6;14-09-2023 21:30;Bragantino - Grêmio;Bragantino;R$ 1.230,97
+6;16-09-2023 16:00;Vasco da Gama - Fluminense;Fluminense;R$ 1.230,97
+6;14-09-2023 19:00;Fortaleza - Corinthians;Fortaleza;R$ 1.230,97
+6;14-09-2023 19:00;Santos - Cruzeiro;Empate;R$ 1.230,97
+6;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 1.230,97
+7;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.208,20
+7;14-09-2023 21:30;Bragantino - Grêmio;Bragantino;R$ 1.208,20
+7;16-09-2023 16:00;Vasco da Gama - Fluminense;Fluminense;R$ 1.208,20
+7;14-09-2023 19:00;Fortaleza - Corinthians;Empate;R$ 1.208,20
+7;14-09-2023 19:00;Santos - Cruzeiro;Santos;R$ 1.208,20
+7;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 1.208,20
+8;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.080,08
+8;14-09-2023 21:30;Bragantino - Grêmio;Bragantino;R$ 1.080,08
+8;16-09-2023 16:00;Vasco da Gama - Fluminense;Fluminense;R$ 1.080,08
+8;14-09-2023 19:00;Santos - Cruzeiro;Santos;R$ 1.080,08
+8;14-09-2023 19:00;Fortaleza - Corinthians;Fortaleza;R$ 1.080,08
+8;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Botafogo-RJ;R$ 1.080,08
+9;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.254,67
+9;14-09-2023 21:30;Bragantino - Grêmio;Bragantino;R$ 1.254,67
+9;16-09-2023 16:00;Vasco da Gama - Fluminense;Fluminense;R$ 1.254,67
+9;14-09-2023 19:00;Santos - Cruzeiro;Santos;R$ 1.254,67
+9;14-09-2023 19:00;Fortaleza - Corinthians;Fortaleza;R$ 1.254,67
+9;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 1.254,67
+10;14-09-2023 20:00;Coritiba - Bahia;Bahia;R$ 1.598,39
+10;14-09-2023 21:30;Bragantino - Grêmio;Bragantino;R$ 1.598,39
+10;14-09-2023 19:00;Santos - Cruzeiro;Santos;R$ 1.598,39
+10;14-09-2023 19:00;Fortaleza - Corinthians;Fortaleza;R$ 1.598,39
+10;16-09-2023 21:00;Atlético-MG - Botafogo-RJ;Atlético-MG;R$ 1.598,39
+10;16-09-2023 16:00;Vasco da Gama - Fluminense;Vasco da Gama;R$ 1.598,39
